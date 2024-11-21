@@ -1,2 +1,3 @@
 Hello User
-Welcome to Git and Github
+Welcome to Git and GitHub.
+Did some changes.
